@@ -32,21 +32,24 @@ def translate_markdown_files(source_dir, target_dir):
                         text = f.read()
 
                     paragraphs = text.split('\n\n')
+                    
 
                     translated_paragraphs = []
                     for paragraph in paragraphs:
                         # #から始まる段落（ヘッダー）
                         header_match = re.match(r'#\s*(.*)', paragraph)
                         if header_match:
+                            print(header_match)
                             header = header_match.group(1)
                             remaining_text = paragraph[len(header) + 1:]
                             translated_text = translator.translate(remaining_text)
                             translated_paragraph = f"{header} {translated_text}"
+                            print(translated_paragraph)
                         # ![](から始まる段落（画像）
                         elif paragraph.startswith("![]("):
                             translated_paragraph = paragraph
                         # 数式
-                        elif re.search(r'\$\$[.\n]*?\$\$', paragraph):
+                        elif paragraph.startswith("$$"):
                             translated_paragraph = paragraph
                         else:
                             # 段落内の改行をスペースに置換
