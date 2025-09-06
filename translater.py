@@ -8,6 +8,7 @@ Created on Sat Sep  6 20:09:49 2025
 import os
 import glob
 from deep_translator import GoogleTranslator
+import re
 
 def translate_markdown_files(source_dir, target_dir):
     """
@@ -30,18 +31,32 @@ def translate_markdown_files(source_dir, target_dir):
                     with open(source_file, "r", encoding="utf-8") as f:
                         text = f.read()
 
-                    # 段落を抽出
-                    paragraphs = text.split('\n\n')  # 2つ以上の改行で分割
+                    paragraphs = text.split('\n\n')
 
-                    # 段落内の改行を削除
-                    cleaned_paragraphs = [p.replace('\n', ' ') for p in paragraphs]  # 段落内の改行をスペースに置換
+                    translated_paragraphs = []
+                    for paragraph in paragraphs:
+                        # #から始まる段落（ヘッダー）
+                        header_match = re.match(r'#\s*(.*)', paragraph)
+                        if header_match:
+                            header = header_match.group(1)
+                            remaining_text = paragraph[len(header) + 1:]
+                            # 数式の$(...)$または$$(...)$$で囲まれた部分を翻訳から除外
+                            translated_text = translator.translate(remaining_text)
+                            translated_paragraph = f"{header} {translated_text}"
+                        # ![](から始まる段落（画像）
+                        elif paragraph.startswith("![]("):
+                            translated_paragraph = paragraph
+                        # 数式
+                        elif re.search(r'\$\$.*?\$\$', paragraph):
+                            translated_paragraph = paragraph
+                        else:
+                            # 段落内の改行をスペースに置換
+                            cleaned_paragraph = paragraph.replace('\n', ' ')
+                            translated_text = translator.translate(cleaned_paragraph)
+                            translated_paragraph = translated_text
+                        translated_paragraphs.append(translated_paragraph)
 
-
-                    # 段落ごとに翻訳
-                    translated_paragraphs = [translator.translate(p) for p in cleaned_paragraphs]
-
-                    # 翻訳結果を結合
-                    translated_text = '\n\n'.join(translated_paragraphs)  # 2つ以上の改行で結合
+                    translated_text = '\n\n'.join(translated_paragraphs)
 
                     with open(target_file, "w", encoding="utf-8") as f:
                         f.write(translated_text)
