@@ -40,14 +40,13 @@ def translate_markdown_files(source_dir, target_dir):
                         if header_match:
                             header = header_match.group(1)
                             remaining_text = paragraph[len(header) + 1:]
-                            # 数式の$(...)$または$$(...)$$で囲まれた部分を翻訳から除外
                             translated_text = translator.translate(remaining_text)
                             translated_paragraph = f"{header} {translated_text}"
                         # ![](から始まる段落（画像）
                         elif paragraph.startswith("![]("):
                             translated_paragraph = paragraph
                         # 数式
-                        elif re.search(r'\$\$.*?\$\$', paragraph):
+                        elif re.search(r'\$\$[.\n]*?\$\$', paragraph):
                             translated_paragraph = paragraph
                         else:
                             # 段落内の改行をスペースに置換
