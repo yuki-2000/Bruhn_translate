@@ -32,19 +32,24 @@ def translate_markdown_files(source_dir, target_dir):
                         text = f.read()
 
                     paragraphs = text.split('\n\n')
+                    #print(paragraphs)
                     
 
                     translated_paragraphs = []
                     for paragraph in paragraphs:
+                        
+                        paragraph = paragraph.lstrip("\n")
+                        
                         # #から始まる段落（ヘッダー）
-                        header_match = re.match(r'#\s*(.*)', paragraph)
+                        header_match = re.match(r"(#+)\s+.*", paragraph)
                         if header_match:
-                            print(header_match)
+                            #print(header_match)
                             header = header_match.group(1)
+                            #print(header)
                             remaining_text = paragraph[len(header) + 1:]
                             translated_text = translator.translate(remaining_text)
                             translated_paragraph = f"{header} {translated_text}"
-                            print(translated_paragraph)
+                            #print(translated_paragraph)
                         # ![](から始まる段落（画像）
                         elif paragraph.startswith("![]("):
                             translated_paragraph = paragraph
