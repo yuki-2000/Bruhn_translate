@@ -15,17 +15,14 @@ def translate_markdown_files(source_dir, target_dir):
     指定されたターゲットフォルダに同じフォルダ構成で保存します。
     """
 
-    translator = GoogleTranslator(source='en', target='ja')  # 翻訳インスタンスを作成
+    translator = GoogleTranslator(source='en', target='ja')
 
     for root, dirs, files in os.walk(source_dir):
-        # ソースディレクトリのすべてのファイルとフォルダを探索
         target_path = os.path.join(target_dir, os.path.relpath(root, source_dir))
-
-        # ターゲットフォルダの対応するフォルダを作成
         os.makedirs(target_path, exist_ok=True)
 
         for file in files:
-            if file.endswith(".md"):  # Markdownファイルのみ処理
+            if file.endswith(".md"):
                 source_file = os.path.join(root, file)
                 target_file = os.path.join(target_path, file)
 
@@ -33,7 +30,14 @@ def translate_markdown_files(source_dir, target_dir):
                     with open(source_file, "r", encoding="utf-8") as f:
                         text = f.read()
 
-                    translated_text = translator.translate(text)
+                    # 段落を抽出
+                    paragraphs = text.split('\n\n')  # 2つ以上の改行で分割
+
+                    # 段落ごとに翻訳
+                    translated_paragraphs = [translator.translate(p) for p in paragraphs]
+
+                    # 翻訳結果を結合
+                    translated_text = '\n\n'.join(translated_paragraphs)  # 2つ以上の改行で結合
 
                     with open(target_file, "w", encoding="utf-8") as f:
                         f.write(translated_text)
@@ -48,3 +52,5 @@ source_directory = "markdown_en"
 target_directory = "markdown_jp_google"
 
 translate_markdown_files(source_directory, target_directory)
+
+
