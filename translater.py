@@ -33,8 +33,12 @@ def translate_markdown_files(source_dir, target_dir):
                     # 段落を抽出
                     paragraphs = text.split('\n\n')  # 2つ以上の改行で分割
 
+                    # 段落内の改行を削除
+                    cleaned_paragraphs = [p.replace('\n', ' ') for p in paragraphs]  # 段落内の改行をスペースに置換
+
+
                     # 段落ごとに翻訳
-                    translated_paragraphs = [translator.translate(p) for p in paragraphs]
+                    translated_paragraphs = [translator.translate(p) for p in cleaned_paragraphs]
 
                     # 翻訳結果を結合
                     translated_text = '\n\n'.join(translated_paragraphs)  # 2つ以上の改行で結合
@@ -48,7 +52,7 @@ def translate_markdown_files(source_dir, target_dir):
                     print(f"Error translating {source_file}: {e}")
 
 # 使用例
-source_directory = "markdown_en"
+source_directory = "markdown_en_test"
 target_directory = "markdown_jp_google"
 
 translate_markdown_files(source_directory, target_directory)
