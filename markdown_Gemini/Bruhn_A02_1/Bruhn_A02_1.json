@@ -1,0 +1,717 @@
+[
+  {
+    "id": "p1_tab_01",
+    "filename": "p1_table_01.png",
+    "page_number": 1,
+    "box_2d": [
+      682,
+      88,
+      745,
+      463
+    ],
+    "type": "table",
+    "caption": "(2.1)"
+  },
+  {
+    "id": "p1_tab_02",
+    "filename": "p1_table_02.png",
+    "page_number": 1,
+    "box_2d": [
+      228,
+      515,
+      287,
+      935
+    ],
+    "type": "table",
+    "caption": "(2.2)"
+  },
+  {
+    "id": "p1_fig_01",
+    "filename": "p1_fig_01.png",
+    "page_number": 1,
+    "box_2d": [
+      631,
+      540,
+      668,
+      935
+    ],
+    "type": "figure",
+    "caption": "(2.3)"
+  },
+  {
+    "id": "p1_tab_03",
+    "filename": "p1_table_03.png",
+    "page_number": 1,
+    "box_2d": [
+      845,
+      515,
+      910,
+      935
+    ],
+    "type": "table",
+    "caption": "2.4"
+  },
+  {
+    "id": "p2_tab_01",
+    "filename": "p2_table_01.png",
+    "page_number": 2,
+    "box_2d": [
+      120,
+      38,
+      188,
+      476
+    ],
+    "type": "table",
+    "caption": "2.5"
+  },
+  {
+    "id": "p2_tab_02",
+    "filename": "p2_table_02.png",
+    "page_number": 2,
+    "box_2d": [
+      510,
+      75,
+      570,
+      470
+    ],
+    "type": "table",
+    "caption": "2.6"
+  },
+  {
+    "id": "p2_fig_01",
+    "filename": "p2_fig_01.png",
+    "page_number": 2,
+    "box_2d": [
+      275,
+      510,
+      360,
+      940
+    ],
+    "type": "figure",
+    "caption": "Ball and Socket Fitting"
+  },
+  {
+    "id": "p2_fig_02",
+    "filename": "p2_fig_02.png",
+    "page_number": 2,
+    "box_2d": [
+      753,
+      85,
+      785,
+      475
+    ],
+    "type": "figure",
+    "caption": "2.7"
+  },
+  {
+    "id": "p2_fig_03",
+    "filename": "p2_fig_03.png",
+    "page_number": 2,
+    "box_2d": [
+      545,
+      560,
+      635,
+      930
+    ],
+    "type": "figure",
+    "caption": "Single Pin Fitting"
+  },
+  {
+    "id": "p2_fig_04",
+    "filename": "p2_fig_04.png",
+    "page_number": 2,
+    "box_2d": [
+      815,
+      575,
+      855,
+      935
+    ],
+    "type": "figure",
+    "caption": "Support Bar AB"
+  },
+  {
+    "id": "p3_fig_01",
+    "filename": "p3_fig_01.png",
+    "page_number": 3,
+    "box_2d": [
+      90,
+      65,
+      210,
+      480
+    ],
+    "type": "figure",
+    "caption": "Double Pin - Universal Joint Fittings"
+  },
+  {
+    "id": "p3_fig_02",
+    "filename": "p3_fig_02.png",
+    "page_number": 3,
+    "box_2d": [
+      160,
+      570,
+      250,
+      895
+    ],
+    "type": "figure",
+    "caption": "Cables - Tie Rods"
+  },
+  {
+    "id": "p3_fig_03",
+    "filename": "p3_fig_03.png",
+    "page_number": 3,
+    "box_2d": [
+      450,
+      135,
+      515,
+      415
+    ],
+    "type": "figure",
+    "caption": "Rollers"
+  },
+  {
+    "id": "p3_fig_04",
+    "filename": "p3_fig_04.png",
+    "page_number": 3,
+    "box_2d": [
+      540,
+      610,
+      580,
+      865
+    ],
+    "type": "figure",
+    "caption": "Pin sketch symbols"
+  },
+  {
+    "id": "p3_fig_05",
+    "filename": "p3_fig_05.png",
+    "page_number": 3,
+    "box_2d": [
+      885,
+      145,
+      960,
+      455
+    ],
+    "type": "figure",
+    "caption": "Lubricated Slot or Double Roller"
+  },
+  {
+    "id": "p3_fig_06",
+    "filename": "p3_fig_06.png",
+    "page_number": 3,
+    "box_2d": [
+      695,
+      570,
+      800,
+      945
+    ],
+    "type": "figure",
+    "caption": "Graphical symbols for reaction"
+  },
+  {
+    "id": "p4_fig_01",
+    "filename": "p4_fig_01.png",
+    "page_number": 4,
+    "box_2d": [
+      65,
+      85,
+      145,
+      430
+    ],
+    "type": "figure",
+    "caption": "Knife Edge and Pin Rollers"
+  },
+  {
+    "id": "p4_fig_02",
+    "filename": "p4_fig_02.png",
+    "page_number": 4,
+    "box_2d": [
+      315,
+      100,
+      405,
+      420
+    ],
+    "type": "figure",
+    "caption": "Rigid support symbol"
+  },
+  {
+    "id": "p4_fig_03",
+    "filename": "p4_fig_03.png",
+    "page_number": 4,
+    "box_2d": [
+      640,
+      515,
+      775,
+      945
+    ],
+    "type": "figure",
+    "caption": "Fig. A2.1"
+  },
+  {
+    "id": "p5_fig_01",
+    "filename": "p5_fig_01.png",
+    "page_number": 5,
+    "box_2d": [
+      205,
+      55,
+      360,
+      255
+    ],
+    "type": "figure",
+    "caption": "Fig. A2.2"
+  },
+  {
+    "id": "p5_fig_02",
+    "filename": "p5_fig_02.png",
+    "page_number": 5,
+    "box_2d": [
+      215,
+      315,
+      360,
+      495
+    ],
+    "type": "figure",
+    "caption": "Fig. A2.3"
+  },
+  {
+    "id": "p5_fig_03",
+    "filename": "p5_fig_03.png",
+    "page_number": 5,
+    "box_2d": [
+      455,
+      540,
+      590,
+      945
+    ],
+    "type": "figure",
+    "caption": "Fig. A2.5 and Fig. A2.6"
+  },
+  {
+    "id": "p5_fig_04",
+    "filename": "p5_fig_04.png",
+    "page_number": 5,
+    "box_2d": [
+      795,
+      85,
+      920,
+      485
+    ],
+    "type": "figure",
+    "caption": "Fig. A2.4"
+  },
+  {
+    "id": "p6_fig_01",
+    "filename": "p6_fig_01.png",
+    "page_number": 6,
+    "box_2d": [
+      75,
+      540,
+      240,
+      945
+    ],
+    "type": "figure",
+    "caption": "Fig. A2.10, A2.11, A2.12"
+  },
+  {
+    "id": "p6_fig_02",
+    "filename": "p6_fig_02.png",
+    "page_number": 6,
+    "box_2d": [
+      370,
+      25,
+      495,
+      490
+    ],
+    "type": "figure",
+    "caption": "Fig. A2.7, A2.8, A2.9"
+  },
+  {
+    "id": "p7_fig_01",
+    "filename": "p7_fig_01.png",
+    "page_number": 7,
+    "box_2d": [
+      250,
+      535,
+      345,
+      950
+    ],
+    "type": "figure",
+    "caption": "Fig. A2.15"
+  },
+  {
+    "id": "p7_fig_02",
+    "filename": "p7_fig_02.png",
+    "page_number": 7,
+    "box_2d": [
+      830,
+      55,
+      960,
+      480
+    ],
+    "type": "figure",
+    "caption": "Fig. A2.14"
+  },
+  {
+    "id": "p8_fig_01",
+    "filename": "p8_fig_01.png",
+    "page_number": 8,
+    "box_2d": [
+      455,
+      545,
+      745,
+      945
+    ],
+    "type": "figure",
+    "caption": "Fig. A2.17"
+  },
+  {
+    "id": "p8_fig_02",
+    "filename": "p8_fig_02.png",
+    "page_number": 8,
+    "box_2d": [
+      705,
+      50,
+      835,
+      450
+    ],
+    "type": "figure",
+    "caption": "Fig. A2.16"
+  },
+  {
+    "id": "p10_fig_01",
+    "filename": "p10_fig_01.png",
+    "page_number": 10,
+    "box_2d": [
+      50,
+      545,
+      215,
+      950
+    ],
+    "type": "figure",
+    "caption": "Fig. A2.18"
+  },
+  {
+    "id": "p10_fig_02",
+    "filename": "p10_fig_02.png",
+    "page_number": 10,
+    "box_2d": [
+      225,
+      545,
+      310,
+      945
+    ],
+    "type": "figure",
+    "caption": "Fig. A2.19"
+  },
+  {
+    "id": "p10_fig_03",
+    "filename": "p10_fig_03.png",
+    "page_number": 10,
+    "box_2d": [
+      535,
+      550,
+      625,
+      945
+    ],
+    "type": "figure",
+    "caption": "Fig. A2.20"
+  },
+  {
+    "id": "p10_fig_04",
+    "filename": "p10_fig_04.png",
+    "page_number": 10,
+    "box_2d": [
+      830,
+      545,
+      925,
+      945
+    ],
+    "type": "figure",
+    "caption": "Fig. A2.21"
+  },
+  {
+    "id": "p11_fig_01",
+    "filename": "p11_fig_01.png",
+    "page_number": 11,
+    "box_2d": [
+      265,
+      55,
+      345,
+      455
+    ],
+    "type": "figure",
+    "caption": "Fig. A2.22"
+  },
+  {
+    "id": "p11_fig_02",
+    "filename": "p11_fig_02.png",
+    "page_number": 11,
+    "box_2d": [
+      490,
+      45,
+      615,
+      445
+    ],
+    "type": "figure",
+    "caption": "Fig. A2.22 (layout)"
+  },
+  {
+    "id": "p11_fig_03",
+    "filename": "p11_fig_03.png",
+    "page_number": 11,
+    "box_2d": [
+      255,
+      510,
+      365,
+      720
+    ],
+    "type": "figure",
+    "caption": "Fig. A2.23"
+  },
+  {
+    "id": "p11_fig_04",
+    "filename": "p11_fig_04.png",
+    "page_number": 11,
+    "box_2d": [
+      255,
+      750,
+      365,
+      950
+    ],
+    "type": "figure",
+    "caption": "Fig. A2.24"
+  },
+  {
+    "id": "p12_fig_01",
+    "filename": "p12_fig_01.png",
+    "page_number": 12,
+    "box_2d": [
+      95,
+      55,
+      215,
+      465
+    ],
+    "type": "figure",
+    "caption": "Fig. A2.25"
+  },
+  {
+    "id": "p12_fig_02",
+    "filename": "p12_fig_02.png",
+    "page_number": 12,
+    "box_2d": [
+      230,
+      55,
+      345,
+      465
+    ],
+    "type": "figure",
+    "caption": "Fig. A2.26"
+  },
+  {
+    "id": "p12_fig_03",
+    "filename": "p12_fig_03.png",
+    "page_number": 12,
+    "box_2d": [
+      205,
+      510,
+      315,
+      945
+    ],
+    "type": "figure",
+    "caption": "Fig. A2.27"
+  },
+  {
+    "id": "p12_fig_04",
+    "filename": "p12_fig_04.png",
+    "page_number": 12,
+    "box_2d": [
+      295,
+      680,
+      390,
+      950
+    ],
+    "type": "figure",
+    "caption": "Fig. A2.28"
+  },
+  {
+    "id": "p13_fig_01",
+    "filename": "p13_fig_01.png",
+    "page_number": 13,
+    "box_2d": [
+      315,
+      50,
+      455,
+      475
+    ],
+    "type": "figure",
+    "caption": "Fig. A2.29"
+  },
+  {
+    "id": "p14_fig_01",
+    "filename": "p14_fig_01.png",
+    "page_number": 14,
+    "box_2d": [
+      110,
+      30,
+      285,
+      475
+    ],
+    "type": "figure",
+    "caption": "Fig. A2.30"
+  },
+  {
+    "id": "p14_fig_02",
+    "filename": "p14_fig_02.png",
+    "page_number": 14,
+    "box_2d": [
+      555,
+      580,
+      785,
+      945
+    ],
+    "type": "figure",
+    "caption": "Fig. A2.31 Piper Tri-Pacer"
+  },
+  {
+    "id": "p14_fig_03",
+    "filename": "p14_fig_03.png",
+    "page_number": 14,
+    "box_2d": [
+      795,
+      580,
+      965,
+      945
+    ],
+    "type": "figure",
+    "caption": "Fig. A2.32 Champion Traveler"
+  },
+  {
+    "id": "p15_fig_01",
+    "filename": "p15_fig_01.png",
+    "page_number": 15,
+    "box_2d": [
+      55,
+      55,
+      385,
+      480
+    ],
+    "type": "figure",
+    "caption": "Fig. A2.33 Wing Layout"
+  },
+  {
+    "id": "p15_fig_02",
+    "filename": "p15_fig_02.png",
+    "page_number": 15,
+    "box_2d": [
+      415,
+      40,
+      580,
+      470
+    ],
+    "type": "figure",
+    "caption": "Fig. A2.34 Aileron and Drag Truss"
+  },
+  {
+    "id": "p15_fig_03",
+    "filename": "p15_fig_03.png",
+    "page_number": 15,
+    "box_2d": [
+      350,
+      560,
+      490,
+      925
+    ],
+    "type": "figure",
+    "caption": "Fig. A2.36 Lift and Drag Forces"
+  },
+  {
+    "id": "p15_fig_04",
+    "filename": "p15_fig_04.png",
+    "page_number": 15,
+    "box_2d": [
+      755,
+      580,
+      890,
+      885
+    ],
+    "type": "figure",
+    "caption": "Fig. A2.37 Airforce Center of Pressure"
+  },
+  {
+    "id": "p15_fig_05",
+    "filename": "p15_fig_05.png",
+    "page_number": 15,
+    "box_2d": [
+      750,
+      40,
+      965,
+      490
+    ],
+    "type": "figure",
+    "caption": "Fig. A2.35 Structural Dimensional Diagram"
+  },
+  {
+    "id": "p16_fig_01",
+    "filename": "p16_fig_01.png",
+    "page_number": 16,
+    "box_2d": [
+      225,
+      55,
+      305,
+      455
+    ],
+    "type": "figure",
+    "caption": "Front Beam Load"
+  },
+  {
+    "id": "p16_fig_02",
+    "filename": "p16_fig_02.png",
+    "page_number": 16,
+    "box_2d": [
+      600,
+      65,
+      680,
+      455
+    ],
+    "type": "figure",
+    "caption": "Rear Beam Load"
+  },
+  {
+    "id": "p16_fig_03",
+    "filename": "p16_fig_03.png",
+    "page_number": 16,
+    "box_2d": [
+      65,
+      510,
+      215,
+      945
+    ],
+    "type": "figure",
+    "caption": "Truss Systems Layout"
+  },
+  {
+    "id": "p16_tab_01",
+    "filename": "p16_table_01.png",
+    "page_number": 16,
+    "box_2d": [
+      285,
+      520,
+      405,
+      945
+    ],
+    "type": "table",
+    "caption": "Table A2.1"
+  },
+  {
+    "id": "p16_fig_04",
+    "filename": "p16_fig_04.png",
+    "page_number": 16,
+    "box_2d": [
+      750,
+      560,
+      845,
+      900
+    ],
+    "type": "figure",
+    "caption": "Joint 1 Equilibrium Diagrams"
+  }
+]

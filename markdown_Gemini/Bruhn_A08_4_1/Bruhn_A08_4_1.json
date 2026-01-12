@@ -1,0 +1,145 @@
+[
+  {
+    "id": "p1_tab_01",
+    "filename": "p1_tab_01.png",
+    "page_number": 1,
+    "box_2d": [
+      57,
+      18,
+      541,
+      485
+    ],
+    "type": "table",
+    "caption": "g_im"
+  },
+  {
+    "id": "p1_fig_01",
+    "filename": "p1_fig_01.png",
+    "page_number": 1,
+    "box_2d": [
+      55,
+      541,
+      107,
+      867
+    ],
+    "type": "figure",
+    "caption": "Matrix elements"
+  },
+  {
+    "id": "p1_tab_02",
+    "filename": "p1_tab_02.png",
+    "page_number": 1,
+    "box_2d": [
+      205,
+      518,
+      695,
+      965
+    ],
+    "type": "table",
+    "caption": "G_im"
+  },
+  {
+    "id": "p2_fig_01",
+    "filename": "p2_fig_01.png",
+    "page_number": 2,
+    "box_2d": [
+      55,
+      34,
+      375,
+      485
+    ],
+    "type": "figure",
+    "caption": "Fig. A8.31"
+  },
+  {
+    "id": "p2_tab_01",
+    "filename": "p2_tab_01.png",
+    "page_number": 2,
+    "box_2d": [
+      418,
+      45,
+      797,
+      478
+    ],
+    "type": "table",
+    "caption": "Member properties table"
+  },
+  {
+    "id": "p3_tab_01",
+    "filename": "p3_tab_01.png",
+    "page_number": 3,
+    "box_2d": [
+      312,
+      36,
+      683,
+      485
+    ],
+    "type": "table",
+    "caption": "g_im : g_ir"
+  },
+  {
+    "id": "p3_tab_02",
+    "filename": "p3_tab_02.png",
+    "page_number": 3,
+    "box_2d": [
+      383,
+      527,
+      771,
+      965
+    ],
+    "type": "table",
+    "caption": "G_im final results"
+  },
+  {
+    "id": "p4_fig_01",
+    "filename": "p4_fig_01.png",
+    "page_number": 4,
+    "box_2d": [
+      113,
+      57,
+      355,
+      462
+    ],
+    "type": "figure",
+    "caption": "Fig. A8.32"
+  },
+  {
+    "id": "p4_tab_01",
+    "filename": "p4_tab_01.png",
+    "page_number": 4,
+    "box_2d": [
+      155,
+      518,
+      293,
+      965
+    ],
+    "type": "table",
+    "caption": "Flexibility coefficients matrix"
+  },
+  {
+    "id": "p4_tab_02",
+    "filename": "p4_tab_02.png",
+    "page_number": 4,
+    "box_2d": [
+      504,
+      518,
+      715,
+      965
+    ],
+    "type": "table",
+    "caption": "g_im matrix"
+  },
+  {
+    "id": "p4_fig_02",
+    "filename": "p4_fig_02.png",
+    "page_number": 4,
+    "box_2d": [
+      629,
+      55,
+      915,
+      485
+    ],
+    "type": "figure",
+    "caption": "Fig. A8.33"
+  }
+]

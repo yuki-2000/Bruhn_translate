@@ -1,0 +1,119 @@
+[
+  {
+    "id": "p2_fig_01",
+    "filename": "p2_fig_01.png",
+    "page_number": 2,
+    "box_2d": [
+      38,
+      47,
+      960,
+      946
+    ],
+    "type": "figure",
+    "caption": "747 STRUCTURE CUTAWAY"
+  },
+  {
+    "id": "p6_fig_01",
+    "filename": "p6_fig_01.png",
+    "page_number": 6,
+    "box_2d": [
+      68,
+      110,
+      954,
+      924
+    ],
+    "type": "figure",
+    "caption": "DC-10 STRUCTURAL CUTAWAY"
+  },
+  {
+    "id": "p12_fig_01",
+    "filename": "p12_fig_01.png",
+    "page_number": 12,
+    "box_2d": [
+      20,
+      35,
+      958,
+      685
+    ],
+    "type": "figure",
+    "caption": "APOLLO/SATURN VEHICLE"
+  },
+  {
+    "id": "p13_fig_01",
+    "filename": "p13_fig_01.png",
+    "page_number": 13,
+    "box_2d": [
+      55,
+      45,
+      944,
+      965
+    ],
+    "type": "figure",
+    "caption": "PHOTOGRAPHS ILLUSTRATING PROGRESS OF AIRCRAFT DESIGN FOR AIR TRANSPORTATION"
+  },
+  {
+    "id": "p14_fig_01",
+    "filename": "p14_fig_01.png",
+    "page_number": 14,
+    "box_2d": [
+      25,
+      35,
+      970,
+      960
+    ],
+    "type": "figure",
+    "caption": "PHOTOGRAPHS ILLUSTRATING TREMENDOUS PROGRESS OF MILITARY AVIATION"
+  },
+  {
+    "id": "p15_fig_01",
+    "filename": "p15_fig_01.png",
+    "page_number": 15,
+    "box_2d": [
+      25,
+      40,
+      905,
+      965
+    ],
+    "type": "figure",
+    "caption": "Spacecraft Photographs (Pioneer, Lunar Orbiter, Project Gemini, Mariner, Ranger)"
+  },
+  {
+    "id": "p16_fig_01",
+    "filename": "p16_fig_01.png",
+    "page_number": 16,
+    "box_2d": [
+      20,
+      10,
+      950,
+      990
+    ],
+    "type": "figure",
+    "caption": "NASA DELTA SPACE VEHICLE MODEL DSV-3B"
+  },
+  {
+    "id": "p17_fig_01",
+    "filename": "p17_fig_01.png",
+    "page_number": 17,
+    "box_2d": [
+      45,
+      100,
+      960,
+      950
+    ],
+    "type": "figure",
+    "caption": "NORTHROP AIRCRAFT F-89C \"SCORPION\""
+  },
+  {
+    "id": "p18_fig_01",
+    "filename": "p18_fig_01.png",
+    "page_number": 18,
+    "box_2d": [
+      25,
+      40,
+      835,
+      950
+    ],
+    "type": "figure",
+    "caption": "Sequence of Moon Landing Mission Photos"
+  }
+]

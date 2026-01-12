@@ -1,0 +1,93 @@
+[
+  {
+    "id": "p1_fig_01",
+    "filename": "p1_fig_01.png",
+    "page_number": 1,
+    "box_2d": [
+      32,
+      25,
+      310,
+      488
+    ],
+    "type": "figure",
+    "caption": "Fig. A8.34"
+  },
+  {
+    "id": "p1_tab_01",
+    "filename": "p1_tab_01.png",
+    "page_number": 1,
+    "box_2d": [
+      670,
+      40,
+      955,
+      488
+    ],
+    "type": "table",
+    "caption": "[G_ir]"
+  },
+  {
+    "id": "p1_tab_02",
+    "filename": "p1_tab_02.png",
+    "page_number": 1,
+    "box_2d": [
+      625,
+      515,
+      880,
+      970
+    ],
+    "type": "table",
+    "caption": "[G_im]"
+  },
+  {
+    "id": "p3_fig_01",
+    "filename": "p3_fig_01.png",
+    "page_number": 3,
+    "box_2d": [
+      365,
+      520,
+      470,
+      965
+    ],
+    "type": "figure",
+    "caption": "Fig. A8.35"
+  },
+  {
+    "id": "p3_tab_01",
+    "filename": "p3_tab_01.png",
+    "page_number": 3,
+    "box_2d": [
+      855,
+      605,
+      995,
+      885
+    ],
+    "type": "table",
+    "caption": "[G_ir] (q3, q4)"
+  },
+  {
+    "id": "p4_tab_01",
+    "filename": "p4_tab_01.png",
+    "page_number": 4,
+    "box_2d": [
+      335,
+      145,
+      490,
+      295
+    ],
+    "type": "table",
+    "caption": "[G_ir] (q1, q2)"
+  },
+  {
+    "id": "p4_fig_01",
+    "filename": "p4_fig_01.png",
+    "page_number": 4,
+    "box_2d": [
+      575,
+      510,
+      705,
+      970
+    ],
+    "type": "figure",
+    "caption": "Fig. A8.36"
+  }
+]

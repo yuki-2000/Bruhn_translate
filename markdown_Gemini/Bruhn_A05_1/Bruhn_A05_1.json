@@ -1,0 +1,470 @@
+[
+  {
+    "id": "p1_fig1",
+    "filename": "p1_fig_01.png",
+    "page_number": 1,
+    "box_2d": [
+      145,
+      595,
+      245,
+      910
+    ],
+    "type": "figure",
+    "caption": "Fig. A5.1"
+  },
+  {
+    "id": "p1_fig2",
+    "filename": "p1_fig_02.png",
+    "page_number": 1,
+    "box_2d": [
+      255,
+      540,
+      360,
+      680
+    ],
+    "type": "figure",
+    "caption": "Fig. A5.2"
+  },
+  {
+    "id": "p1_fig3",
+    "filename": "p1_fig_03.png",
+    "page_number": 1,
+    "box_2d": [
+      255,
+      750,
+      360,
+      910
+    ],
+    "type": "figure",
+    "caption": "Fig. A5.3"
+  },
+  {
+    "id": "p1_fig4",
+    "filename": "p1_fig_04.png",
+    "page_number": 1,
+    "box_2d": [
+      385,
+      540,
+      490,
+      715
+    ],
+    "type": "figure",
+    "caption": "Fig. A5.4"
+  },
+  {
+    "id": "p1_fig5",
+    "filename": "p1_fig_05.png",
+    "page_number": 1,
+    "box_2d": [
+      385,
+      750,
+      490,
+      910
+    ],
+    "type": "figure",
+    "caption": "Fig. A5.5"
+  },
+  {
+    "id": "p2_fig1",
+    "filename": "p2_fig_01.png",
+    "page_number": 2,
+    "box_2d": [
+      60,
+      535,
+      160,
+      925
+    ],
+    "type": "figure",
+    "caption": "Fig. A5.6"
+  },
+  {
+    "id": "p2_fig2",
+    "filename": "p2_fig_02.png",
+    "page_number": 2,
+    "box_2d": [
+      290,
+      515,
+      395,
+      935
+    ],
+    "type": "figure",
+    "caption": "Fig. A5.7 (Shear Diagram)"
+  },
+  {
+    "id": "p2_fig3",
+    "filename": "p2_fig_03.png",
+    "page_number": 2,
+    "box_2d": [
+      415,
+      515,
+      505,
+      935
+    ],
+    "type": "figure",
+    "caption": "Fig. A5.8 (Bending Moment Diagram)"
+  },
+  {
+    "id": "p3_fig1",
+    "filename": "p3_fig_01.png",
+    "page_number": 3,
+    "box_2d": [
+      175,
+      530,
+      265,
+      925
+    ],
+    "type": "figure",
+    "caption": "Fig. A5.9"
+  },
+  {
+    "id": "p3_fig2",
+    "filename": "p3_fig_02.png",
+    "page_number": 3,
+    "box_2d": [
+      270,
+      530,
+      355,
+      925
+    ],
+    "type": "figure",
+    "caption": "Fig. A5.10"
+  },
+  {
+    "id": "p3_fig3",
+    "filename": "p3_fig_03.png",
+    "page_number": 3,
+    "box_2d": [
+      335,
+      530,
+      420,
+      925
+    ],
+    "type": "figure",
+    "caption": "Fig. A5.11"
+  },
+  {
+    "id": "p4_fig1",
+    "filename": "p4_fig_01.png",
+    "page_number": 4,
+    "box_2d": [
+      585,
+      580,
+      815,
+      875
+    ],
+    "type": "figure",
+    "caption": "Fig. A5.12"
+  },
+  {
+    "id": "p5_fig1",
+    "filename": "p5_fig_01.png",
+    "page_number": 5,
+    "box_2d": [
+      505,
+      45,
+      790,
+      450
+    ],
+    "type": "figure",
+    "caption": "Fig. A5.13"
+  },
+  {
+    "id": "p5_fig2",
+    "filename": "p5_fig_02.png",
+    "page_number": 5,
+    "box_2d": [
+      50,
+      520,
+      190,
+      930
+    ],
+    "type": "figure",
+    "caption": "Fig. A5.14"
+  },
+  {
+    "id": "p5_fig3",
+    "filename": "p5_fig_03.png",
+    "page_number": 5,
+    "box_2d": [
+      640,
+      510,
+      785,
+      955
+    ],
+    "type": "figure",
+    "caption": "Fig. A5.15"
+  },
+  {
+    "id": "p6_fig1",
+    "filename": "p6_fig_01.png",
+    "page_number": 6,
+    "box_2d": [
+      200,
+      90,
+      280,
+      455
+    ],
+    "type": "figure",
+    "caption": "Fig. A5.16"
+  },
+  {
+    "id": "p6_fig2",
+    "filename": "p6_fig_02.png",
+    "page_number": 6,
+    "box_2d": [
+      310,
+      35,
+      355,
+      265
+    ],
+    "type": "figure",
+    "caption": "Fig. A5.17"
+  },
+  {
+    "id": "p6_fig3",
+    "filename": "p6_fig_03.png",
+    "page_number": 6,
+    "box_2d": [
+      355,
+      35,
+      435,
+      455
+    ],
+    "type": "figure",
+    "caption": "Fig. A5.18"
+  },
+  {
+    "id": "p6_fig4",
+    "filename": "p6_fig_04.png",
+    "page_number": 6,
+    "box_2d": [
+      440,
+      45,
+      515,
+      475
+    ],
+    "type": "figure",
+    "caption": "Fig. A5.19"
+  },
+  {
+    "id": "p6_fig5",
+    "filename": "p6_fig_05.png",
+    "page_number": 6,
+    "box_2d": [
+      205,
+      550,
+      320,
+      905
+    ],
+    "type": "figure",
+    "caption": "Fig. A5.20"
+  },
+  {
+    "id": "p6_fig6",
+    "filename": "p6_fig_06.png",
+    "page_number": 6,
+    "box_2d": [
+      435,
+      555,
+      545,
+      905
+    ],
+    "type": "figure",
+    "caption": "Fig. A5.21"
+  },
+  {
+    "id": "p7_fig1",
+    "filename": "p7_fig_01.png",
+    "page_number": 7,
+    "box_2d": [
+      55,
+      30,
+      270,
+      280
+    ],
+    "type": "figure",
+    "caption": "Fig. A5.22"
+  },
+  {
+    "id": "p7_fig2",
+    "filename": "p7_fig_02.png",
+    "page_number": 7,
+    "box_2d": [
+      55,
+      295,
+      270,
+      495
+    ],
+    "type": "figure",
+    "caption": "Fig. A5.23"
+  },
+  {
+    "id": "p7_fig3",
+    "filename": "p7_fig_03.png",
+    "page_number": 7,
+    "box_2d": [
+      640,
+      30,
+      720,
+      235
+    ],
+    "type": "figure",
+    "caption": "Fig. A5.24"
+  },
+  {
+    "id": "p7_fig4",
+    "filename": "p7_fig_04.png",
+    "page_number": 7,
+    "box_2d": [
+      595,
+      260,
+      765,
+      500
+    ],
+    "type": "figure",
+    "caption": "Fig. A5.25"
+  },
+  {
+    "id": "p7_fig5",
+    "filename": "p7_fig_05.png",
+    "page_number": 7,
+    "box_2d": [
+      765,
+      65,
+      835,
+      225
+    ],
+    "type": "figure",
+    "caption": "Fig. A5.26"
+  },
+  {
+    "id": "p7_fig6",
+    "filename": "p7_fig_06.png",
+    "page_number": 7,
+    "box_2d": [
+      205,
+      785,
+      350,
+      955
+    ],
+    "type": "figure",
+    "caption": "Fig. A5.27"
+  },
+  {
+    "id": "p7_fig7",
+    "filename": "p7_fig_07.png",
+    "page_number": 7,
+    "box_2d": [
+      520,
+      530,
+      635,
+      950
+    ],
+    "type": "figure",
+    "caption": "Fig. A5.28"
+  },
+  {
+    "id": "p7_fig8",
+    "filename": "p7_fig_08.png",
+    "page_number": 7,
+    "box_2d": [
+      665,
+      570,
+      785,
+      855
+    ],
+    "type": "figure",
+    "caption": "Fig. A5.29"
+  },
+  {
+    "id": "p8_fig1",
+    "filename": "p8_fig_01.png",
+    "page_number": 8,
+    "box_2d": [
+      200,
+      65,
+      280,
+      235
+    ],
+    "type": "figure",
+    "caption": "Fig. A5.30"
+  },
+  {
+    "id": "p8_fig2",
+    "filename": "p8_fig_02.png",
+    "page_number": 8,
+    "box_2d": [
+      200,
+      280,
+      280,
+      450
+    ],
+    "type": "figure",
+    "caption": "Fig. A5.31"
+  },
+  {
+    "id": "p8_fig3",
+    "filename": "p8_fig_03.png",
+    "page_number": 8,
+    "box_2d": [
+      100,
+      535,
+      210,
+      710
+    ],
+    "type": "figure",
+    "caption": "Fig. A5.32"
+  },
+  {
+    "id": "p8_fig4",
+    "filename": "p8_fig_04.png",
+    "page_number": 8,
+    "box_2d": [
+      100,
+      730,
+      210,
+      930
+    ],
+    "type": "figure",
+    "caption": "Fig. A5.33"
+  },
+  {
+    "id": "p8_fig5",
+    "filename": "p8_fig_05.png",
+    "page_number": 8,
+    "box_2d": [
+      590,
+      520,
+      680,
+      645
+    ],
+    "type": "figure",
+    "caption": "Fig. A5.34"
+  },
+  {
+    "id": "p8_fig6",
+    "filename": "p8_fig_06.png",
+    "page_number": 8,
+    "box_2d": [
+      590,
+      670,
+      680,
+      805
+    ],
+    "type": "figure",
+    "caption": "Fig. A5.35"
+  },
+  {
+    "id": "p8_fig7",
+    "filename": "p8_fig_07.png",
+    "page_number": 8,
+    "box_2d": [
+      590,
+      830,
+      680,
+      955
+    ],
+    "type": "figure",
+    "caption": "Fig. A5.36"
+  }
+]

@@ -1,0 +1,262 @@
+[
+  {
+    "id": "p1_fig_01",
+    "filename": "p1_fig_01.png",
+    "page_number": 1,
+    "box_2d": [
+      405,
+      110,
+      580,
+      440
+    ],
+    "type": "figure",
+    "caption": "Fig. A10.1"
+  },
+  {
+    "id": "p1_fig_02",
+    "filename": "p1_fig_02.png",
+    "page_number": 1,
+    "box_2d": [
+      80,
+      560,
+      450,
+      890
+    ],
+    "type": "figure",
+    "caption": "Fig. A10.2"
+  },
+  {
+    "id": "p2_fig_03",
+    "filename": "p2_fig_03.png",
+    "page_number": 2,
+    "box_2d": [
+      268,
+      513,
+      422,
+      725
+    ],
+    "type": "figure",
+    "caption": "Fig. A10.3"
+  },
+  {
+    "id": "p2_fig_04",
+    "filename": "p2_fig_04.png",
+    "page_number": 2,
+    "box_2d": [
+      268,
+      735,
+      446,
+      915
+    ],
+    "type": "figure",
+    "caption": "Fig. A10.4"
+  },
+  {
+    "id": "p2_fig_05",
+    "filename": "p2_fig_05.png",
+    "page_number": 2,
+    "box_2d": [
+      604,
+      511,
+      786,
+      712
+    ],
+    "type": "figure",
+    "caption": "Fig. A10.5"
+  },
+  {
+    "id": "p2_fig_06",
+    "filename": "p2_fig_06.png",
+    "page_number": 2,
+    "box_2d": [
+      615,
+      732,
+      783,
+      907
+    ],
+    "type": "figure",
+    "caption": "Fig. A10.6"
+  },
+  {
+    "id": "p3_fig_07",
+    "filename": "p3_fig_07.png",
+    "page_number": 3,
+    "box_2d": [
+      791,
+      734,
+      946,
+      955
+    ],
+    "type": "figure",
+    "caption": "Fig. A10.7"
+  },
+  {
+    "id": "p4_fig_08",
+    "filename": "p4_fig_08.png",
+    "page_number": 4,
+    "box_2d": [
+      222,
+      60,
+      335,
+      237
+    ],
+    "type": "figure",
+    "caption": "Fig. A10.8"
+  },
+  {
+    "id": "p4_fig_09",
+    "filename": "p4_fig_09.png",
+    "page_number": 4,
+    "box_2d": [
+      229,
+      212,
+      351,
+      442
+    ],
+    "type": "figure",
+    "caption": "Fig. A10.9"
+  },
+  {
+    "id": "p4_fig_10",
+    "filename": "p4_fig_10.png",
+    "page_number": 4,
+    "box_2d": [
+      349,
+      36,
+      497,
+      240
+    ],
+    "type": "figure",
+    "caption": "Fig. A10.10"
+  },
+  {
+    "id": "p4_fig_11",
+    "filename": "p4_fig_11.png",
+    "page_number": 4,
+    "box_2d": [
+      352,
+      246,
+      508,
+      447
+    ],
+    "type": "figure",
+    "caption": "Fig. A10.11"
+  },
+  {
+    "id": "p5_fig_12",
+    "filename": "p5_fig_12.png",
+    "page_number": 5,
+    "box_2d": [
+      777,
+      43,
+      940,
+      269
+    ],
+    "type": "figure",
+    "caption": "Fig. A10.12"
+  },
+  {
+    "id": "p5_fig_13",
+    "filename": "p5_fig_13.png",
+    "page_number": 5,
+    "box_2d": [
+      804,
+      255,
+      963,
+      495
+    ],
+    "type": "figure",
+    "caption": "Fig. A10.13"
+  },
+  {
+    "id": "p5_fig_14",
+    "filename": "p5_fig_14.png",
+    "page_number": 5,
+    "box_2d": [
+      575,
+      545,
+      831,
+      883
+    ],
+    "type": "figure",
+    "caption": "Fig. A10.14"
+  },
+  {
+    "id": "p6_fig_15",
+    "filename": "p6_fig_15.png",
+    "page_number": 6,
+    "box_2d": [
+      426,
+      529,
+      545,
+      711
+    ],
+    "type": "figure",
+    "caption": "Fig. A10.15"
+  },
+  {
+    "id": "p6_fig_16",
+    "filename": "p6_fig_16.png",
+    "page_number": 6,
+    "box_2d": [
+      443,
+      762,
+      542,
+      953
+    ],
+    "type": "figure",
+    "caption": "Fig. A10.16"
+  },
+  {
+    "id": "p6_fig_17",
+    "filename": "p6_fig_17.png",
+    "page_number": 6,
+    "box_2d": [
+      574,
+      503,
+      722,
+      720
+    ],
+    "type": "figure",
+    "caption": "Fig. A10.17"
+  },
+  {
+    "id": "p6_fig_18",
+    "filename": "p6_fig_18.png",
+    "page_number": 6,
+    "box_2d": [
+      565,
+      779,
+      721,
+      981
+    ],
+    "type": "figure",
+    "caption": "Fig. A10.18"
+  },
+  {
+    "id": "p6_fig_19",
+    "filename": "p6_fig_19.png",
+    "page_number": 6,
+    "box_2d": [
+      748,
+      516,
+      908,
+      711
+    ],
+    "type": "figure",
+    "caption": "Fig. A10.19"
+  },
+  {
+    "id": "p6_fig_20",
+    "filename": "p6_fig_20.png",
+    "page_number": 6,
+    "box_2d": [
+      762,
+      779,
+      893,
+      936
+    ],
+    "type": "figure",
+    "caption": "Fig. A10.20"
+  }
+]
