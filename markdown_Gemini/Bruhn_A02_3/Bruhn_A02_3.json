@@ -1,0 +1,275 @@
+[
+  {
+    "id": "p1_fig_01",
+    "filename": "p1_fig_01.png",
+    "page_number": 1,
+    "box_2d": [
+      330,
+      25,
+      440,
+      480
+    ],
+    "type": "figure",
+    "caption": "Fig. A2.38"
+  },
+  {
+    "id": "p1_fig_02",
+    "filename": "p1_fig_02.png",
+    "page_number": 1,
+    "box_2d": [
+      835,
+      20,
+      955,
+      485
+    ],
+    "type": "figure",
+    "caption": "Fig. A2.39"
+  },
+  {
+    "id": "p1_fig_03",
+    "filename": "p1_fig_03.png",
+    "page_number": 1,
+    "box_2d": [
+      365,
+      510,
+      560,
+      990
+    ],
+    "type": "figure",
+    "caption": "Fig. A2.40"
+  },
+  {
+    "id": "p1_table_01",
+    "filename": "p1_table_01.png",
+    "page_number": 1,
+    "box_2d": [
+      710,
+      510,
+      875,
+      985
+    ],
+    "type": "table",
+    "caption": "Table A2.2"
+  },
+  {
+    "id": "p2_table_01",
+    "filename": "p2_table_01.png",
+    "page_number": 2,
+    "box_2d": [
+      45,
+      515,
+      195,
+      985
+    ],
+    "type": "table",
+    "caption": "Lengths & Directional Components of Cabane Struts"
+  },
+  {
+    "id": "p2_fig_01",
+    "filename": "p2_fig_01.png",
+    "page_number": 2,
+    "box_2d": [
+      430,
+      520,
+      525,
+      980
+    ],
+    "type": "figure",
+    "caption": "Fig. A2.42"
+  },
+  {
+    "id": "p2_fig_02",
+    "filename": "p2_fig_02.png",
+    "page_number": 2,
+    "box_2d": [
+      700,
+      5,
+      985,
+      495
+    ],
+    "type": "figure",
+    "caption": "Fig. A2.41"
+  },
+  {
+    "id": "p2_fig_03",
+    "filename": "p2_fig_03.png",
+    "page_number": 2,
+    "box_2d": [
+      765,
+      570,
+      850,
+      835
+    ],
+    "type": "figure",
+    "caption": "Solution of force system at Joint 8"
+  },
+  {
+    "id": "p3_fig_01",
+    "filename": "p3_fig_01.png",
+    "page_number": 3,
+    "box_2d": [
+      225,
+      160,
+      325,
+      490
+    ],
+    "type": "figure",
+    "caption": "Fig. A2.43"
+  },
+  {
+    "id": "p3_fig_02",
+    "filename": "p3_fig_02.png",
+    "page_number": 3,
+    "box_2d": [
+      425,
+      110,
+      500,
+      410
+    ],
+    "type": "figure",
+    "caption": "Solution of force system at Joint 7"
+  },
+  {
+    "id": "p3_fig_03",
+    "filename": "p3_fig_03.png",
+    "page_number": 3,
+    "box_2d": [
+      770,
+      15,
+      960,
+      485
+    ],
+    "type": "figure",
+    "caption": "Fig. A2.44"
+  },
+  {
+    "id": "p3_fig_04",
+    "filename": "p3_fig_04.png",
+    "page_number": 3,
+    "box_2d": [
+      345,
+      520,
+      460,
+      975
+    ],
+    "type": "figure",
+    "caption": "Fig. A2.45"
+  },
+  {
+    "id": "p3_fig_05",
+    "filename": "p3_fig_05.png",
+    "page_number": 3,
+    "box_2d": [
+      510,
+      645,
+      580,
+      840
+    ],
+    "type": "figure",
+    "caption": "Loads in Cabane Struts Due to Drag Reaction at Point 7"
+  },
+  {
+    "id": "p4_table_01",
+    "filename": "p4_table_01.png",
+    "page_number": 4,
+    "box_2d": [
+      50,
+      35,
+      215,
+      485
+    ],
+    "type": "table",
+    "caption": "Table A2.3"
+  },
+  {
+    "id": "p4_fig_01",
+    "filename": "p4_fig_01.png",
+    "page_number": 4,
+    "box_2d": [
+      55,
+      515,
+      345,
+      970
+    ],
+    "type": "figure",
+    "caption": "Fig. A2.46"
+  },
+  {
+    "id": "p4_fig_02",
+    "filename": "p4_fig_02.png",
+    "page_number": 4,
+    "box_2d": [
+      365,
+      505,
+      680,
+      985
+    ],
+    "type": "figure",
+    "caption": "Fig. 46a, 46b, 46c, 46d"
+  },
+  {
+    "id": "p5_fig_01",
+    "filename": "p5_fig_01.png",
+    "page_number": 5,
+    "box_2d": [
+      55,
+      55,
+      210,
+      455
+    ],
+    "type": "figure",
+    "caption": "Fig. A2.48"
+  },
+  {
+    "id": "p5_fig_02",
+    "filename": "p5_fig_02.png",
+    "page_number": 5,
+    "box_2d": [
+      715,
+      520,
+      805,
+      975
+    ],
+    "type": "figure",
+    "caption": "Fig. A2.49"
+  },
+  {
+    "id": "p6_table_01",
+    "filename": "p6_table_01.png",
+    "page_number": 6,
+    "box_2d": [
+      150,
+      30,
+      265,
+      485
+    ],
+    "type": "table",
+    "caption": "Calculation of Loads in Diagonal Truss Members"
+  },
+  {
+    "id": "p6_fig_01",
+    "filename": "p6_fig_01.png",
+    "page_number": 6,
+    "box_2d": [
+      405,
+      310,
+      480,
+      485
+    ],
+    "type": "figure",
+    "caption": "Consider Joint S"
+  },
+  {
+    "id": "p6_fig_02",
+    "filename": "p6_fig_02.png",
+    "page_number": 6,
+    "box_2d": [
+      600,
+      35,
+      715,
+      485
+    ],
+    "type": "figure",
+    "caption": "Consider Joint D"
+  }
+]
